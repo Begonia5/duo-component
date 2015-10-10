@@ -1,1 +1,1 @@
-module.exports = 'main.js';
+module.exports = 'main.jsv0.0.1';
